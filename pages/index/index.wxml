@@ -1,0 +1,22 @@
+<view class="card" >
+  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
+  <image class="logo" src="../../img/next.png" mode="widthFix"></image>
+
+  <view class="info">
+    <view class="name">汝小右(･ิϖ･ิ)っ</view>
+    <view class="desc">这是一条备注</view>
+    <view>Tel: 187****3496</view>
+    <view>Email: 773849069@qq.com</view>
+  </view>
+</view>
+<view class="card" >
+  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
+  <image class="logo" src="../../img/next.png" mode="widthFix"></image>
+
+  <view class="info">
+    <view class="name">汝小右(･ิϖ･ิ)っ</view>
+    <view class="desc">这是一条备注</view>
+    <view>Tel: 187****3496</view>
+    <view>Email: 773849069@qq.com</view>
+  </view>
+</view>
