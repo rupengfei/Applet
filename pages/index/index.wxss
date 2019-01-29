@@ -22,7 +22,7 @@ page{
 .bg {
   width: 100%;
   border-radius: 5px;
-  box-shadow: 5px 5px 5px #5F687E;
+  box-shadow: 5px 5px 10px #5F687E;
 }
 
 .logo {
