@@ -1,22 +1,38 @@
-<view class="card" >
-  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
-  <image class="logo" src="../../img/next.png" mode="widthFix"></image>
+<view class="body">
+  <view class='head'>头部</view>
+  <view class='list'>
+  
+    <view class='course-card'>
+      <view>
+        <image src='../../img/cover.png' mode='widthFix'></image>
+      </view>
+      <view>人人都会微信小程序</view>
+      <view class='price'>免费</view>
+    </view>
 
-  <view class="info">
-    <view class="name">汝小右(･ิϖ･ิ)っ</view>
-    <view class="desc">这是一条备注</view>
-    <view>Tel: 187****3496</view>
-    <view>Email: 773849069@qq.com</view>
-  </view>
-</view>
-<view class="card" >
-  <image class="bg" src="../../img/bg.jpg" mode="widthFix"></image>
-  <image class="logo" src="../../img/next.png" mode="widthFix"></image>
+    <view class='course-card'>
+      <view>
+        <image src='../../img/cover.png' mode='widthFix'></image>
+      </view>
+      <view>人人都会微信小程序</view>
+      <view class='price'>免费</view>
+    </view>
+    <view class='course-card'>
+      <view>
+        <image src='../../img/cover.png' mode='widthFix'></image>
+      </view>
+      <view>人人都会微信小程序</view>
+      <view class='price'>免费</view>
+    </view>
 
-  <view class="info">
-    <view class="name">汝小右(･ิϖ･ิ)っ</view>
-    <view class="desc">这是一条备注</view>
-    <view>Tel: 187****3496</view>
-    <view>Email: 773849069@qq.com</view>
+    <view class='course-card'>
+      <view>
+        <image src='../../img/cover.png' mode='widthFix'></image>
+      </view>
+      <view>人人都会微信小程序</view>
+      <view class='price'>免费</view>
+    </view>
+  
   </view>
+  <view class='bottom'>底部</view>
 </view>
